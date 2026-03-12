@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "DDx3CThDsH4=",
+  "success": true,
+  "projectFilePath": "C:\\projetos\\LearnEng\\LearnEng.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\marci\\.nuget\\packages\\microsoft.aspnetcore.app.internal.assets\\10.0.3\\microsoft.aspnetcore.app.internal.assets.10.0.3.nupkg.sha512",
+    "C:\\Users\\marci\\.nuget\\packages\\mudblazor\\9.1.0\\mudblazor.9.1.0.nupkg.sha512",
+    "C:\\Users\\marci\\.nuget\\packages\\tomlyn\\1.2.0\\tomlyn.1.2.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,16 @@
+@inject ProjectInfo ProjectInfo
+
+<PageTitle>@title | @ProjectInfo.Name</PageTitle>
+<MudText
+    Typo        = "Typo.h3"
+    GutterBottom= "true"
+    >@(contentTitle ?? title)</MudText>
+
+@code {
+    [Parameter]
+    public required string title { get; set; }
+    
+    [Parameter]
+    public string? contentTitle { get; set; }
+
+}
